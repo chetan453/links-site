@@ -1,3 +1,5 @@
+/* this is the server of website */
+
 const express = require("express");
 const multer = require("multer");
 const Link = require("./link.js");

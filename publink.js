@@ -1,3 +1,5 @@
+/* This the main Javascript code of our site */
+
 const serverUrl = "http://localhost:3000";
 
 const contentElement = document.getElementById("content");
